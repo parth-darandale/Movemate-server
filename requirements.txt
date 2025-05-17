@@ -1,0 +1,8 @@
+fastapi
+firebase-admin
+requests
+google-cloud-firestore
+pydantic
+mangum
+uvicorn
+python-dotenv
